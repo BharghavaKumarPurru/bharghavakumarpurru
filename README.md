@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bharghava Kumar Purru</h1>
 <h3 align="center">A passionate .NET Developer</h3>
 
-- 🔭 I’m currently working on [ContactsApp](https://github.com/BharghavaKumarPurru/ContactsApp)
+- 🔭 I’m currently working on [ContactsApp](https://github.com/BharghavaKumarPurru/azure-resume)
 
 - 🌱 I’m currently learning **.NET Framework,Entity Core Framework,Web APIS**
 
